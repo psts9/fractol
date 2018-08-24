@@ -6,13 +6,11 @@
 /*   By: pthorell <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/08/11 17:33:56 by pthorell          #+#    #+#             */
-/*   Updated: 2018/08/11 17:35:13 by pthorell         ###   ########.fr       */
+/*   Updated: 2018/08/24 16:41:14 by pthorell         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "color.h"
-
-#include <stdio.h>
 
 static int	scheme_ultrafractal(int i)
 {

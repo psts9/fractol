@@ -6,7 +6,7 @@
 /*   By: pthorell <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/08/11 18:28:47 by pthorell          #+#    #+#             */
-/*   Updated: 2018/08/11 18:33:52 by pthorell         ###   ########.fr       */
+/*   Updated: 2018/08/24 16:52:05 by pthorell         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,12 +20,7 @@
 #include "libft.h"
 #include "color_scheme.h"
 
-#include <string.h>
-#include <sys/types.h>
-#include <stdlib.h>
 #include <unistd.h>
-
-#include "libft.h"
 
 #define MANDELBROT 0
 #define JULIA 1

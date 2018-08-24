@@ -6,15 +6,13 @@
 /*   By: pthorell <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/08/11 17:41:12 by pthorell          #+#    #+#             */
-/*   Updated: 2018/08/11 17:41:18 by pthorell         ###   ########.fr       */
+/*   Updated: 2018/08/24 16:41:51 by pthorell         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "mlx.h"
 #include "state.h"
 #include "color.h"
-
-#include <stdio.h>
 
 void	put_pixel(int x, int y, int color, t_game *g)
 {
